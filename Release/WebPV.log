@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/4/17 16:46:07。
+     1>项目“D:\gitproject\WebPV\WebPV\WebPV\WebPV.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\WebPV.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Moc'ing GetRequest.h...
+       ClCompile:
+         所有输出均为最新。
+         e:\soft\vs2010\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IE:\soft\qt5.4\5.4\msvc2010_opengl\include /I.\GeneratedFiles\Release /IE:\soft\qt5.4\5.4\msvc2010_opengl\include\QtCore /IE:\soft\qt5.4\5.4\msvc2010_opengl\include\QtGui /IE:\soft\qt5.4\5.4\msvc2010_opengl\include\QtWidgets /IE:\soft\qt5.4\5.4\msvc2010_opengl\include\QtNetwork /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Release\moc_GetRequest.cpp GetRequest.cpp webpv.cpp
+         moc_GetRequest.cpp
+         GetRequest.cpp
+         webpv.cpp
+         正在生成代码...
+       Link:
+         e:\soft\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\gitproject\WebPV\WebPV\Win32\Release\\WebPV.exe" /NOLOGO /LIBPATH:E:\soft\qt5.4\5.4\msvc2010_opengl\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib Qt5Network.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\WebPV.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"D:\gitproject\WebPV\WebPV\Win32\Release\WebPV.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\gitproject\WebPV\WebPV\Win32\Release\WebPV.lib" /MACHINE:X86 Release\qrc_webpv.obj
+         Release\moc_GetRequest.obj
+         Release\moc_webpv.obj
+         Release\GetRequest.obj
+         Release\main.obj
+         Release\webpv.obj
+     1>LINK : fatal error LNK1104: 无法打开文件“D:\gitproject\WebPV\WebPV\Win32\Release\\WebPV.exe”
+     1>已完成生成项目“D:\gitproject\WebPV\WebPV\WebPV\WebPV.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.27

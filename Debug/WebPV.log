@@ -1,0 +1,29 @@
+﻿生成启动时间为 2015/4/17 16:52:00。
+     1>项目“D:\gitproject\WebPV\WebPV\WebPV\WebPV.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\WebPV.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         e:\soft\vs2010\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IE:\soft\qt5.4\5.4\msvc2010_opengl\include /I.\GeneratedFiles\Debug /IE:\soft\qt5.4\5.4\msvc2010_opengl\include\QtCore /IE:\soft\qt5.4\5.4\msvc2010_opengl\include\QtGui /IE:\soft\qt5.4\5.4\msvc2010_opengl\include\QtWidgets /IE:\soft\qt5.4\5.4\msvc2010_opengl\include\QtNetwork /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GetRequest.cpp
+         GetRequest.cpp
+         所有输出均为最新。
+       Link:
+         e:\soft\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\gitproject\WebPV\WebPV\Win32\Debug\\WebPV.exe" /NOLOGO /LIBPATH:E:\soft\qt5.4\5.4\msvc2010_opengl\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib Qt5Networkd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\WebPV.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\gitproject\WebPV\WebPV\Win32\Debug\WebPV.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\gitproject\WebPV\WebPV\Win32\Debug\WebPV.lib" /MACHINE:X86 Debug\moc_GetRequest.obj
+         Debug\moc_webpv.obj
+         Debug\qrc_webpv.obj
+         Debug\GetRequest.obj
+         Debug\main.obj
+         Debug\webpv.obj
+         LINK : 没有找到 D:\gitproject\WebPV\WebPV\Win32\Debug\\WebPV.exe 或上一个增量链接没有生成它；正在执行完全链接
+         WebPV.vcxproj -> D:\gitproject\WebPV\WebPV\Win32\Debug\WebPV.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\gitproject\WebPV\WebPV\Win32\Debug\\WebPV.exe;#1" /manifest Debug\WebPV.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\WebPV.unsuccessfulbuild”。
+         正在对“Debug\WebPV.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\gitproject\WebPV\WebPV\WebPV\WebPV.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.35

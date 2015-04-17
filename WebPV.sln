@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebPV", "WebPV\WebPV.vcxproj", "{963DB489-56A4-4859-9C42-D0EBDE281FE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{963DB489-56A4-4859-9C42-D0EBDE281FE2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{963DB489-56A4-4859-9C42-D0EBDE281FE2}.Debug|Win32.Build.0 = Debug|Win32
+		{963DB489-56A4-4859-9C42-D0EBDE281FE2}.Release|Win32.ActiveCfg = Release|Win32
+		{963DB489-56A4-4859-9C42-D0EBDE281FE2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		Qt5Version = msvc2010_opengl
+	EndGlobalSection
+EndGlobal
